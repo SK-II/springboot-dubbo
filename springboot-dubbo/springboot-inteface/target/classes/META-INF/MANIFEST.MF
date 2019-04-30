@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-inteface
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: com.ysl
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-dubbo/springboot-inteface
+Created-By: Maven Integration for Eclipse
+
